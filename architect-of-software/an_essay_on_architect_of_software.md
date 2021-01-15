@@ -14,7 +14,7 @@ The mythical man-month (TMMM) book ended up being way better than I was supposin
 
 This understanding changes the idea I used to have before and throughout the reading.
 
-It was outstanding to notice that Brooks and NewMan, in his book Building Microservices, basically say the same thing about architect of software. They understand the role as a fundamental one in a system project. More important though is what they should be focusing on.
+One can notice that Brooks and NewMan basically say the same thing about architect of software. They understand the role as a fundamental one in a system project. More important though is what they should be focusing on.
 
 The authors state that architects should be working on making pieces of the system to communicate properly. That means to define an interface that exposes what is needed in order to integrate softwares.
 
