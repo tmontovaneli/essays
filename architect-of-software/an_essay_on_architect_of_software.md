@@ -61,3 +61,5 @@ In Brooks':
 Being an architect demands many different skills, deep technical knowledge, persuasion, effective communication, negotiation etc. Certainly it is way harder than most people think it might be.
 
 Whenever a decision is made by architects, software developers should put themselves in the architects' shoes, trying to understand why the decision was made like that. Understanding that architects usually are thinking way broader, because they know much more of the system holistically, will expand the developers way of thinking. Little by little, developers become architects. 
+
+It's evident as well how people should be valued throughout a system project. No matter how hard people are sharing knowledge in a project, or documenting every single piece of it, losing someone will always be expensive. It's true that there are cases where too little can be done. But companies and managers should always be pushing hard on this matter, trying their best in order to keep the team gathered together.
