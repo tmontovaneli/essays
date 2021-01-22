@@ -16,11 +16,9 @@ Brooks and Newman agree that important decisions, the ones that will affect the 
 
 > ... the design must proceed from one mind, or from very small number of agreeing resonant minds 
 
-Newman brings up the idea of Governance.
+However, besides the architect, Newman also brings up the idea of Governance, which usually is a group activity. 
 
 > ... governance is about ensuring what we are building matches the vision, and evolving the vision if needed. 
-
-Newman affirms that governance usually is a group activity. 
 
 According to Newman, the governance group will ensure the software is following the vision, and by doing so, they might end up making decisions as well. The architect might not agree with the decisions made by the group. And Newman says something interesting:
 
