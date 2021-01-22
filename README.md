@@ -1,4 +1,4 @@
-# Do not you agree with anything here? 
+# Do not you agree? 
 
 Please, let me know. You are more than welcome to criticize the essays.
 
