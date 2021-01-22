@@ -2,14 +2,6 @@
 
 ###### By Thiago Montovaneli
 
-```
-It was written after reading the books: The mythical man-month and Build Microservices by  Brooks F. and Newman S., respectively.
-
-Even though it's an essay on architect of software, it does not aim to introduce the concept, describing all activities that usually are assigned to architects.
-
-It only brings up a few thoughts after reading the books.
-```
-
 The mythical man-month (TMMM) book ended up being way better than I was supposing it would be. At the end of it, I could understand what it is about. And it's not about technical issues. It's about people.
 
 This understanding changes the idea I used to have before and throughout the reading.
@@ -56,10 +48,19 @@ In Brooks':
 
 
 
-### Conclusion
+## Conclusion
+
+It's striking to realize that, even though the two books were written far apart in time, they hold the same core idea about architects of software, which corroborates with the need of having a professional playing the role in any project of software. 
 
 Being an architect demands many different skills, deep technical knowledge, persuasion, effective communication, negotiation etc. Certainly it is way harder than most people think it might be.
 
 Whenever a decision is made by architects, software developers should put themselves in the architects' shoes, trying to understand why the decision was made like that. Understanding that architects usually are thinking way broader, because they know much more of the system holistically, will expand the developers way of thinking. Little by little, developers become architects. 
 
 It's evident as well how people should be valued throughout a system project. No matter how hard people are sharing knowledge in a project, or documenting every single piece of it, losing someone will always be expensive. It's true that there are cases where too little can be done. But companies and managers should always be pushing hard on this matter, trying their best in order to keep the team gathered together.
+
+
+
+## References
+
+1. Brooks, Frederick P., Jr. The Mythical Man-Month
+2. Newman, Sam. Building Microservices
